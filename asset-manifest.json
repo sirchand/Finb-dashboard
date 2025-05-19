@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Finb-dashboard/static/css/main.e6c13ad2.css",
+    "main.js": "/Finb-dashboard/static/js/main.111113b1.js",
+    "static/js/453.b92866bd.chunk.js": "/Finb-dashboard/static/js/453.b92866bd.chunk.js",
+    "index.html": "/Finb-dashboard/index.html",
+    "main.e6c13ad2.css.map": "/Finb-dashboard/static/css/main.e6c13ad2.css.map",
+    "main.111113b1.js.map": "/Finb-dashboard/static/js/main.111113b1.js.map",
+    "453.b92866bd.chunk.js.map": "/Finb-dashboard/static/js/453.b92866bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.111113b1.js"
+  ]
+}
