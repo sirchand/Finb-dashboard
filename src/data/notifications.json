@@ -1,0 +1,5 @@
+[
+  { "type": "alert",   "message": "Food category ने इस महीने बजट पार कर लिया!" },
+  { "type": "pending", "message": "Salary अभी तक नहीं आयी—चेक कर लें।" },
+  { "type": "tip",     "message": "हर महीने 10 % इमरजेंसी फ़ंड में रखिए।" }
+]

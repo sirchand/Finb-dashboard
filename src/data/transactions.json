@@ -1,0 +1,86 @@
+[
+  {
+    "date": "2023-06-26",
+    "category": "Income",
+    "description": "Paycheck",
+    "amount": 2500,
+    "type": "Credit"
+  },
+  {
+    "date": "2023-06-25",
+    "category": "Expense",
+    "description": "Rent",
+    "amount": -1500,
+    "type": "Debit"
+  },
+  {
+    "date": "2023-06-24",
+    "category": "Expense",
+    "description": "Groceries",
+    "amount": -65,
+    "type": "Debit"
+  },
+  {
+    "date": "2023-06-23",
+    "category": "Expense",
+    "description": "Dinner",
+    "amount": -30,
+    "type": "Debit"
+  },
+  {
+    "date": "2023-06-22",
+    "category": "Expense",
+    "description": "Gas",
+    "amount": -40,
+    "type": "Debit"
+  },
+  {
+    "date": "2023-06-21",
+    "category": "Income",
+    "description": "Freelance",
+    "amount": 300,
+    "type": "Credit"
+  },
+  {
+    "date": "2023-06-20",
+    "category": "Expense",
+    "description": "Amazon",
+    "amount": -50,
+    "type": "Debit"
+  },
+  {
+    "date": "2023-06-19",
+    "category": "Expense",
+    "description": "Coffee",
+    "amount": -5,
+    "type": "Debit"
+  },
+  {
+    "date": "2023-06-28",
+    "category": "Income",
+    "description": "Stock Div",
+    "amount": 120,
+    "type": "Credit"
+  },
+  {
+    "date": "2023-06-27",
+    "category": "Expense",
+    "description": "Movie",
+    "amount": -15,
+    "type": "Debit"
+  },
+  {
+    "date": "2023-06-18",
+    "category": "Income",
+    "description": "Gift",
+    "amount": 200,
+    "type": "Credit"
+  },
+  {
+    "date": "2023-06-17",
+    "category": "Expense",
+    "description": "Utilities",
+    "amount": -100,
+    "type": "Debit"
+  }
+]

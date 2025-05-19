@@ -1,0 +1,22 @@
+[
+    {
+        "category": "Food & Dining",
+        "spent": "350",
+        "limit": 400
+    },
+    {
+        "category": "Shopping",
+        "spent": "600",
+        "limit": 700
+    },
+    {
+        "category": "Travel",
+        "spent": "450",
+        "limit": 600
+    },
+    {
+        "category": "Health",
+        "spent": "150",
+        "limit": 300
+    }
+]

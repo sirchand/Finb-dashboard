@@ -1,0 +1,29 @@
+{
+  "last": [
+    { "name": "Home",            "value": 180 },
+    { "name": "Food & Dining",   "value": 320 },
+    { "name": "Auto & Transport","value": 790 },
+    { "name": "Health & Fitness","value": 210 },
+    { "name": "Shopping",        "value": 610 },
+    { "name": "Travel",          "value": 690 },
+    { "name": "Entertainment",   "value": 280 }
+  ],
+  "month": [
+    { "name": "Home",            "value": 200 }, 
+    { "name": "Food & Dining",   "value": 350 },
+    { "name": "Auto & Transport","value": 800 },
+    { "name": "Health & Fitness","value": 250 },
+    { "name": "Shopping",        "value": 600 },
+    { "name": "Travel",          "value": 700 },
+    { "name": "Entertainment",   "value": 300 }
+  ],
+  "quarter": [
+    { "name": "Home",            "value": 600 },
+    { "name": "Food & Dining",   "value": 970 },
+    { "name": "Auto & Transport","value": 2340 },
+    { "name": "Health & Fitness","value": 660 },
+    { "name": "Shopping",        "value": 1790 },
+    { "name": "Travel",          "value": 2040 },
+    { "name": "Entertainment",   "value": 850 }
+  ]
+}
